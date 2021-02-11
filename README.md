@@ -2,7 +2,10 @@
 
 ##### NADIA MARIDUENA portfolio
 
-[nadia mariduena portfolio ](https://nadiamariduena.github.io/nm-final-funkythree/)
+ 
+[nadia mariduena portfolio ](https://nadiamariduena.com/)
+
+ 
 
 - Software | languages | libraries used:
   > Blender, React , javascript , Node, Threejs , Html, css/scss, Photoshop.
