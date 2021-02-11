@@ -7,8 +7,9 @@
 - Software | languages | libraries used:
   > Blender, React , javascript , Node, Threejs , Html, css/scss, Photoshop.
 
-[<img src="./src/images/dci-finalprojects1.gif"/>]()
+[<img src="./src/images/dci-finalprojects1.gif"/>](https://nadiamariduena.github.io/nm-final-funkythree/)
 
+<br>
 <br>
 
 ##### MELISSA MURILLO portfolio
@@ -16,7 +17,12 @@
 [melissa murillo portfolio ](https://meyoko-2020-160ps5y8v.vercel.app/Home)
 
 - Software | languages | libraries used:
+
   > React , javascript , Node, Threejs , Html, css/scss, Aos, Photoshop/illustrator.
+
+  <br>
+
+  [<img src="./src/images/dci-finalprojects2.gif"/>](https://meyoko-2020-160ps5y8v.vercel.app/Home)
 
 <br>
 <br>
@@ -27,7 +33,6 @@
 - Few of the things I learned during the last two months like for example: **React Vr**, aren't used in my final projects, but its important to mention that I considered to use them for this purpose, so included them in this list.
 
 <br>
-
 
 #### All the prototypes related to the final project
 
